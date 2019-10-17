@@ -1,0 +1,17 @@
+theme : white
+
+footnote : "@2019 Kushikatsu Love Inc."
+
+slide-number: true
+
+highlight : monokai
+
+#autoslide : 5000
+
+#loop : true
+
+# Setting for Transition: convex, concave, default, fade, none, slide and zoom
+transition : slide
+
+# Chart/Graphics
+charts : true
