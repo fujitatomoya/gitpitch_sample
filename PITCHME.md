@@ -1,6 +1,6 @@
 ### Do you love 
 
-![Kushikatsu Tanaka](http://unseki.co.jp/blog/img/kushikatsutanaka01.jpg)
+<img src="http://unseki.co.jp/blog/img/kushikatsutanaka01.jpg" width="300">
 
 if yes, go right
 if no, go down
