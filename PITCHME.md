@@ -28,7 +28,7 @@
 <img src="http://unseki.co.jp/blog/img/kushikatsutanaka01.jpg" width="250">
 
 - if yes, go right
-- if no, go down
+- if actually no, go down
 
 +++
 ### You are liar !
@@ -43,7 +43,7 @@
 <img src="https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fattachments%2F16096.jpg%3Fv%3De7619af4a2d0f77ea20a926ecc96ef3f15bec659f629e29195b8b1abbf5af147&h=367&prog=1" width="300">
 
 - if yes, go right
-- if no, go down
+- if not really, go down
 
 +++
 ### You are con
